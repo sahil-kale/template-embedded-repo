@@ -51,8 +51,4 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-docs/
-build/
-
 __pycache__/
-.pytest_cache/
